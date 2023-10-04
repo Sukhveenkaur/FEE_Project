@@ -1,0 +1,26 @@
+
+.c{
+    display: flex;
+    justify-content:space-between;
+    flex-direction: row;
+    align-items: center;
+    width:700px;
+    margin:20px 20px;
+    border:2px solid white;
+    padding:20px;
+    
+
+    
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(#e66465, #9198e5);
+}
+body{
+     background-color:black;
+     color: white;
+}
+
